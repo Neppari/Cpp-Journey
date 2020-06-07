@@ -1,0 +1,3 @@
+﻿  ifs.cpp
+C:\Users\Meri\Desktop\C++ Journey\ifs\ifs.cpp(28,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ifs.vcxproj -> C:\Users\Meri\Desktop\C++ Journey\ifs\Debug\ifs.exe

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Meri\Desktop\C++ Journey\Tutorial Complete Beginners\Particle System\SDL Test\SDL Test\Main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Meri\Desktop\C++ Journey\Tutorial Complete Beginners\Particle System\SDL Test\SDL Test\Main.cpp(44,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Meri\Desktop\C++ Journey\Tutorial Complete Beginners\Particle System\SDL Test\SDL Test\Main.cpp(45,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDL Test.vcxproj -> C:\Users\Meri\Desktop\C++ Journey\Tutorial Complete Beginners\Particle System\SDL Test\Debug\SDL Test.exe

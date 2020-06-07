@@ -1,0 +1,2 @@
+C:\Users\Meri\Desktop\C++ Journey\Tiny RPG\Debug\Tiny RPG.exe
+C:\Users\Meri\Desktop\C++ Journey\Tiny RPG\Debug\Tiny RPG.pdb

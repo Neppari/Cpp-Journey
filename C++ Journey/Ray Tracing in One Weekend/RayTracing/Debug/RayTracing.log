@@ -1,0 +1,8 @@
+﻿  RayTracing.cpp
+C:\Users\Meri\Desktop\C++ Journey\Ray Tracing in One Weekend\RayTracing\vec3.h(48,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Meri\Desktop\C++ Journey\Ray Tracing in One Weekend\RayTracing\vec3.h(128,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Meri\Desktop\C++ Journey\Ray Tracing in One Weekend\RayTracing\hittable_list.h(22,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Meri\Desktop\C++ Journey\Ray Tracing in One Weekend\RayTracing\RayTracing.cpp(20,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Meri\Desktop\C++ Journey\Ray Tracing in One Weekend\RayTracing\RayTracing.cpp(21,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Meri\Desktop\C++ Journey\Ray Tracing in One Weekend\RayTracing\RayTracing.cpp(21,72): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracing.vcxproj -> C:\Users\Meri\Desktop\C++ Journey\Ray Tracing in One Weekend\RayTracing\Debug\RayTracing.exe
